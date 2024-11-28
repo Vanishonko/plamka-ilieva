@@ -30,7 +30,7 @@ baseurl: ''
 title: 'Plamka Ilieva'
 description: 'Център за професионално обучение към „ИТИ – Пламка Георгиева” – гр. Монтана'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "/pics/logo.png"
 encoding: utf-8
 
 # Pagination
