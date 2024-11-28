@@ -1,12 +1,16 @@
 # Set theme
 theme: alembic-jekyll-theme
 
+
 # File excludes
 exclude:
 - README.md
 - Gemfile
 - Gemfile.lock
 - netlify.toml
+
+include:
+- pics
 
 # Set plugins
 plugins:
@@ -23,10 +27,11 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Plamka Ilieva'
+description: 'Център за професионално обучение към „ИТИ – Пламка Георгиева” – гр. Монтана'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+encoding: utf-8
 
 # Pagination
 paginate: 5
@@ -34,36 +39,25 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: Начало
   url: /
-- title: About
+- title: За нас
   url: /about/
-- title: Blog
-  url: /blog/
+- title: Курсове
+  url: /courses/
+- title: Галерия
+  url: /gallery/
+- title: Контакти
+  url: /contact/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
+- title: 
+  url: /
 
-# Collections
-collections:
-  posts:
-    title: Posts
-    output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
 
 # Collection settings
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post # Set the default layout for posts
   -
     scope:
       path: ""

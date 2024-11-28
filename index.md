@@ -1,8 +1,10 @@
 ---
-title: Welcome to my website
+title:
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  # Център за професионално обучение към „ИТИ – Пламка Георгиева”
 ---
 
-There isn't much going on here yet, but watch this space
+С ЦПО към „ИТИ – Пламка Георгиева” – гр. Монтана Вие
+избирате не само желан курс за обучение, но и нова икономическа култура,
+мисъл и знания, съвременно професионално образование.
