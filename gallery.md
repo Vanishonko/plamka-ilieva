@@ -21,8 +21,6 @@ description: За ЦПО Пламка Илиева
     <img src="../pics/IMG_20210819_195853.jpg" style="max-width: 400px; height: auto; margin: 10px;" />
     <img src="../pics/IMG_20210819_202746.jpg" style="max-width: 400px; height: auto; margin: 10px;" />
     <img src="../pics/IMG_20210819_201604.jpg" style="max-width: 400px; height: auto; margin: 10px;" />
-    <img src="../pics/IMG_20210819_201757.jpg" style="max-width: 400px; height: auto; margin: 10px;" />
-    <img src="../pics/IMG_20210819_201806.jpg" style="max-width: 400px; height: auto; margin: 10px;" />
     <img src="../pics/STA61130.JPG" style="max-width: 400px; height: auto; margin: 10px;" />
     <img src="../pics/STA62132.JPG" style="max-width: 400px; height: auto; margin: 10px;" />
     <img src="../pics/STA63027.JPG" style="max-width: 400px; height: auto; margin: 10px;" />
