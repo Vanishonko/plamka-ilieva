@@ -1,6 +1,7 @@
 ---
 title: Свържете се
 description: Контакт
+
 ---
 <form name="contact" method="POST" data-netlify="true" onsubmit="return handleSubmit(event);">
   <input type="hidden" name="form-name" value="contact" />
@@ -17,7 +18,7 @@ description: Контакт
     <textarea id="message" name="message" rows="5" required></textarea>
   </p>
   <p>
-    <button type="submit">Изпрати</button>
+    <button type="submit" style="background-color: #004aad">Изпрати</button>
   </p>
 </form>
 
