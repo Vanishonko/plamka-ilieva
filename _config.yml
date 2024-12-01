@@ -11,6 +11,7 @@ exclude:
 
 include:
 - pics
+- css/custom.css
 
 # Set plugins
 plugins:
@@ -25,7 +26,7 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://plamka-ilieva.com'
 baseurl: ''
 title: 'Plamka Ilieva'
 description: 'Център за професионално обучение към „ИТИ – Пламка Георгиева” – гр. Монтана'
