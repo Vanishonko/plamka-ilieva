@@ -46,6 +46,8 @@ navigation_header:
   url: /about/
 - title: Курсове
   url: /courses/
+- title: Ваучерно обучение
+  url: /voucher-training/
 - title: Галерия
   url: /gallery/
 - title: Контакти

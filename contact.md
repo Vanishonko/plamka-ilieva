@@ -3,6 +3,16 @@ title: Свържете се
 description: Контакт
 
 ---
+
+<p>
+  <strong>Име:</strong> Пламка Илиева<br>
+  <strong>Телефон:</strong> <a href="tel:+359898537438">+359 89 853 7438</a><br>
+  <strong>Имейл:</strong> <a href="mailto:pl.ilieva@abv.bg">pl.ilieva@abv.bg</a>
+</p>
+
+
+<hr>
+
 <form name="contact" method="POST" data-netlify="true" onsubmit="return handleSubmit(event);">
   <input type="hidden" name="form-name" value="contact" />
   <p>
